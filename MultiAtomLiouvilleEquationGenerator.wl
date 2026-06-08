@@ -1,5 +1,9 @@
 (* ::Package:: *)
 
+(* MulAtoLEG (Multi-Atom Liouville Equation Generator) *)
+(* Copyright (c) 2026 Alejandro Kunold *)
+(* Released under the MIT License. See LICENSE file for details. *)
+
 BeginPackage["MultiAtomLiouvilleEquationGenerator`"];
 
 

@@ -35,3 +35,19 @@ Download the **Reference Guide**,
 `ReferenceGuideMultiAtomLiouvilleEquationGenerator.nb`,
 which contains a complete list of commands,
 detailed documentation, and illustrative examples.
+
+## License
+
+MulAtoLEG (Multi-Atom Liouville Equation Generator)
+is released under the MIT License.
+
+Copyright (c) 2026 Alejandro Kunold
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+"Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, subject
+to the conditions stated in the LICENSE file.
+
+See the LICENSE file for the full license text.
